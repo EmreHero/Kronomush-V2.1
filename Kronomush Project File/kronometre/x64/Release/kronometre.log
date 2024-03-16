@@ -1,0 +1,2 @@
+﻿E:\Visual Studio 2022\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (kronoemre.vcxproj, kronometre.vcxproj, kronomuç.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  kronometre.vcxproj -> C:\Users\emree\source\repos\kronometre\Kronomush Project File\x64\Release\kronomush.exe
